@@ -1,0 +1,11 @@
+12345 ABRAHAM ABALONE          ANGLING                                   A
+23478 BARTHOLOMEW BADDE        ETHICS AND THE ALL-AMERICAN MALE          F
+23478 BARTHOLOMEW BADDE        CRIMINAL LOGIC FOR THE CRAZY              CR
+34567 EVANGELINE EAGLE         SOARING                                   B
+34567 EVANGELINE EAGLE         ENDANGERED SPECIES--HOW TO SAVE THEM      AU
+34567 EVANGELINE EAGLE         ZOOLOGY                                   F
+77777 GLORIA LOVELY            PERSONAL HEALTH                           C
+77777 GLORIA LOVELY            FIGURE CONSTRUCTION                       D
+77777 GLORIA LOVELY            GLORIOUS GLAMOUR                          I
+88888 HENRY HECKLER            CROWD CONTROL                             A
+88888 HENRY HECKLER            PUBLIC SPEAKING                           B
